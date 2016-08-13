@@ -1,6 +1,5 @@
 """
 Code to get the bookings from the train file
-__author__ : SRK
 """
 import csv
 
