@@ -1,8 +1,3 @@
-"""
-Code to split the train bookings data into two samples - dev and val. Last four months of 2014 is used as val sample
-__author__ : SRK
-"""
-
 import csv
 from datetime import datetime
 
